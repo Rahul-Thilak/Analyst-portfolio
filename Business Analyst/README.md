@@ -12,7 +12,7 @@ This case study follows the invoice from receipt through validation, reconciliat
 
 ## Project journey
 
-The work is organized as three portfolio projects across a 56-day learning plan. The day ranges below describe the planned sequence, not a claim about production delivery.
+The work is organized as three portfolio projects across a 56-days. The day ranges below describe the planned sequence, not a claim about production delivery.
 
 ### Project 1 — Discover and define (Days 3–28)
 
@@ -85,11 +85,9 @@ An optional, small proof of concept could flag likely duplicate invoices in the 
 - **Visualization:** Power BI.
 - **Delivery artifacts:** Jira-style backlog, Figma wireframes, and test cases.
 
-## Learning and transparency
 
-AI may assist with drafting code or DAX, but every query and measure in the portfolio should be understood and explainable in the author's own words. The goal is to demonstrate reasoning: what was analyzed, why a rule or metric was chosen, and how the results support a business decision.
 
-## Suggested repository structure
+##repository structure for your reference
 
 ```text
 project-1-discovery-and-process/
@@ -108,6 +106,6 @@ project-3-solution-concept/
   test-cases/
 ```
 
-## Disclaimer
+## Disclaimer!!
 
 This is a learning and portfolio case study. All sample data should be synthetic. The process, requirements, and interface concepts are illustrative and would need stakeholder validation before use in a real organization.
