@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub portfolio! 
 
-👋 Hi There, I'm **Rahul Thilak**, a data analyst with a passion for crafting stunning data visualizations and making data-driven decisions that matter to the businesses. Feel free to delve into my projects and don't hesitate to reach out for any inquiries or opportunities for collaboration.
+👋 Hi There, I'm **Rahul Thilak**, a analyst with a passion for crafting stunning data visualizations and making data-driven decisions that matter to the businesses. Feel free to delve into my projects and don't hesitate to reach out for any inquiries or opportunities for collaboration.
 
 ---
 
